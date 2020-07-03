@@ -1,0 +1,23 @@
+{
+  "name": "alertme_node",
+  "version": "0.0.1",
+  "description": "Backend for AlertMe App, built on NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rccarmenaty/alertme_node.git"
+  },
+  "keywords": [
+    "node",
+    "backend"
+  ],
+  "author": "Ramon Carmenaty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rccarmenaty/alertme_node/issues"
+  },
+  "homepage": "https://github.com/rccarmenaty/alertme_node#readme"
+}
